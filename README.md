@@ -39,6 +39,7 @@ Alguns requisitos necessários para rodar e também para melhorar a experiência
     5. Git
     6. Arquivo .env (contendo as enviroments variables)
     7. Emulador ou aparelho físico
+    8. Node
 
 ### Recomendados:
 
