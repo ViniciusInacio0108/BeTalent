@@ -1,5 +1,5 @@
 import 'package:auto_size_text/auto_size_text.dart';
-import 'package:betalent/core/assets/assets_urls.dart';
+import 'package:betalent/core/style_guide/assets_urls.dart';
 import 'package:betalent/core/style_guide/style_guide.dart';
 import 'package:betalent/core/utils/utils.dart';
 import 'package:betalent/features/employee/employee.dart';
@@ -73,7 +73,7 @@ class _TableRowComponentState extends State<TableRowComponent> {
                 CircleAvatar(
                   backgroundImage: NetworkImage(widget.employeeData.image),
                 ),
-                SizedBox(
+                const SizedBox(
                   width: 24,
                 ),
                 Expanded(

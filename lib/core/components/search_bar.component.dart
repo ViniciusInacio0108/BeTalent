@@ -1,4 +1,4 @@
-import 'package:betalent/core/assets/assets_urls.dart';
+import 'package:betalent/core/style_guide/assets_urls.dart';
 import 'package:betalent/core/style_guide/style_guide.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
