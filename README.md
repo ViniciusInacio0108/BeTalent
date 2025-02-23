@@ -40,6 +40,7 @@ Alguns requisitos necessários para rodar e também para melhorar a experiência
     6. Arquivo .env (contendo as enviroments variables)
     7. Emulador ou aparelho físico
     8. Node
+    9. Json-server
 
 ### Recomendados:
 
